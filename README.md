@@ -61,3 +61,11 @@ These demonstrate how to:
 
 Shiny is used in the seminar to show how researchers can convert static analyses into interactive, publicly accessible tools.
 
+---
+
+## Acknowledgements
+We gratefully acknowledge the resources and pedagogical inspiration drawn from the following repository on Pivot Tables and Excel techniques:
+
+- [Excel-PivotTables by mathewqpmiller](https://github.com/mathewqpmiller/Excel-PivotTables)
+- [DATA-ANALYSIS-PROJECT-EXCEL-PIVOT-AND-DASHBOARD by Adebliss](https://github.com/Adebliss -DATA-ANALYSIS-PROJECT-EXCEL-PIVOT-AND-DASHBOARD)  
+
