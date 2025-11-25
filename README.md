@@ -61,8 +61,3 @@ These demonstrate how to:
 
 Shiny is used in the seminar to show how researchers can convert static analyses into interactive, publicly accessible tools.
 
-
----
-
-## Citation
-Please cite the seminar speakers and their institutions when referencing materials from this repository.
