@@ -14,11 +14,11 @@ R Shiny materials introduce how to build interactive dashboards and web-based da
 
 ### **Thursday, November 27, 2025**
 
-#### **9:00h–10:30h — Data in Dynamic Tables**  
+#### **9:00h–10:30h: Data in Dynamic Tables**  
 **Speaker:** Dr. Somnath Chaudhuri  
 **Institution:** University of Southampton, UK  
 
-#### **10:30h–12:00h — Working with the Database: Filters, Graphs and Statistics (Part 1)**  
+#### **10:30h–12:00h: Working with the Database: Filters, Graphs and Statistics (Part 1)**  
 **Speaker:** Dr. Pablo Juan Verdoy  
 **Institution:** Universitat Jaume I, Spain
 
@@ -26,11 +26,11 @@ R Shiny materials introduce how to build interactive dashboards and web-based da
 
 ### **Friday, November 28, 2025**
 
-#### **9:00h–10:30h — Presentation of Shiny in R: Data Visualization on the Web**  
+#### **9:00h–10:30h: Presentation of Shiny in R: Data Visualization on the Web**  
 **Speaker:** Dr. Somnath Chaudhuri  
 **Institution:** University of Southampton, UK  
 
-#### **10:30h–12:00h — Working with the Database: Filters, Graphs and Statistics (Part 2)**  
+#### **10:30h–12:00h: Working with the Database: Filters, Graphs and Statistics (Part 2)**  
 **Speaker:** Dr. Pablo Juan Verdoy  
 **Institution:** Universitat Jaume I, Spain  
 
