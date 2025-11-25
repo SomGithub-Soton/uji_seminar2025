@@ -1,5 +1,4 @@
-# Creators in Audio-visual Media  
-## Factors Transforming Structures to Renew Discourses  
+# Creators in Audio-visual Media: Factors Transforming Structures to Renew Discourses  
 ### Research Seminar for Database Management
 
 ---
