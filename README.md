@@ -8,6 +8,9 @@ This repository supports the research seminar **"Creators in Audio-visual Media:
 In addition to theoretical sessions, the repository includes practical exercises using **Microsoft Excel** and **R Shiny**. The Excel materials cover core analytical skills such as functions, conditional operations, sorting and filtering, data validation, SUMIF logic, graph creation, and Pivot Tables.  
 R Shiny materials introduce how to build interactive dashboards and web-based data visualizations for research workflows.
 
+
+![Shiny App Example](Shiny%20App%20Files/1_shiny_fig.png)
+
 ---
 
 ## Seminar Program
