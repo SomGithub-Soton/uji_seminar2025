@@ -64,7 +64,7 @@ Shiny is used in the seminar to show how researchers can convert static analyses
 ---
 
 ## Acknowledgements
-We gratefully acknowledge the resources and pedagogical inspiration drawn from the following repository on Pivot Tables and Excel techniques:
+We gratefully acknowledge the resources and pedagogical inspiration drawn from the following repository on Excel Functions and Pivot Tables:
 
 - [Excel by 960Subhamsingh](https://github.com/960Subhamsingh/Excel) 
 - [Excel-PivotTables by mathewqpmiller](https://github.com/mathewqpmiller/Excel-PivotTables)
