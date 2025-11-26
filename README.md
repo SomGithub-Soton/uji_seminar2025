@@ -13,7 +13,6 @@ El proyecto se inscribe en el análisis de las estructuras que condicionan el de
 ---
 Project funded by the **Valencian Regional Government's Ministry of Education, Culture, Universities and Employment**, for the period **2025–2028**.
 **Principal Investigator:** Dr. Jessica Izquierdo Castillo, *University Jaume I, Spain*.
-
 This project is part of an analysis of the structures that shape the professional development of female creators in the Spanish audiovisual industry, addressing the underrepresentation of women in leadership positions. Its central hypothesis posits that women face greater difficulties in generating and consolidating professional networks, and that these networks are crucial for their career paths and for shaping shared audiovisual narratives and aesthetics. The overall objective is to identify the factors and dynamics that strengthen these networks and act as a driving force and support for the careers of female creators in both film and television, along with specific objectives focused on analyzing creative synergies, collaborative dynamics, aesthetic influences, and the impact of institutional policies and initiatives. The project adopts a multidisciplinary qualitative-quantitative approach that allows for a comprehensive understanding of the relationships between industry, networks, and symbolic production, offering an innovative and transferable model for studying equal opportunities in the audiovisual sector.
 
 ---
