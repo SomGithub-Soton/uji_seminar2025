@@ -1,4 +1,5 @@
-# Creators in Audio-visual Media: Factors Transforming Structures to Renew Discourses  
+# Las creadoras en el audiovisual y sus redes. Un estudio de los vínculos como elemento de transformación y consolidación en la industria (Código CIAICO/2024/103)
+## Women creators in audiovisual media and their networks. A study of connections as an element of transformation and consolidation in the industry (Code CIAICO/2024/103)
 ### Research Seminar for Database Management
 
 ---
