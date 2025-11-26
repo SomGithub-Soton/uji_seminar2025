@@ -89,8 +89,8 @@ Shiny is used in the seminar to show how researchers can convert static analyses
 
 ## Citation
 ```bibtex
-@misc{chaudhuri_verdoy_izquierdo_2025,
-  author       = {Chaudhuri, Somnath and Verdoy, Pablo Juan and Izquierdo Castillo, Jessica},
+@misc{chaudhuri_juan_izquierdo_2025,
+  author       = {Chaudhuri, Somnath and Juan, Pablo and Izquierdo Castillo, Jessica},
   title        = {Las creadoras en el audiovisual y sus redes: Un estudio de los vínculos como elemento de transformación y consolidación en la industria (CIAICO/2024/103)},
   year         = {2025},
   note         = {Research seminar “Creators in Audio-visual Media: Factors Transforming Structures to Renew Discourses,” funded by the Conselleria de Educación, Cultura, Universidad y Empleo, Generalitat Valenciana (2025–2028)},
