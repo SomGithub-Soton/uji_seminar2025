@@ -8,13 +8,14 @@
 
 Proyecto financiado por la **Conselleria de Educación, Cultura, Universidad y Empleo de la Generalitat Valenciana**, para el periodo **2025–2028**.  
 **Investigadora Principal:** Dr. Jessica Izquierdo Castillo, *Universitat Jaume I, Spain*.
+
 El proyecto se inscribe en el análisis de las estructuras que condicionan el desarrollo profesional de las creadoras en la industria audiovisual española, abordando la infrarrepresentación femenina en liderazgo. Su hipótesis central sostiene que las mujeres afrontan mayores dificultades para generar y consolidar redes profesionales, y que dichas redes resultan determinantes para sus trayectorias y para la configuración de narrativas audiovisuales y estéticas compartidas. El objetivo general es identificar los factores y dinámicas que potencian estas redes y que actúan como impulso y sostén de las carreras de las creadoras tanto en cine como en televisión, junto con objetivos específicos orientados al análisis de las sinergias creativas, las dinámicas de colaboración, las influencias estéticas y la incidencia de políticas e iniciativas institucionales. El proyecto adopta un enfoque multidisciplinar cualitativo-cuantitativo que permite comprender de forma integral las relaciones entre industria, redes y producción simbólica, ofreciendo un modelo innovador y transferible para el estudio de la igualdad de oportunidades en el audiovisual. 
 
 ---
 
-
 Project funded by the **Valencian Regional Government's Ministry of Education, Culture, Universities and Employment**, for the period **2025–2028**.
 **Principal Investigator:** Dr. Jessica Izquierdo Castillo, *University Jaume I, Spain*.
+
 This project is part of an analysis of the structures that shape the professional development of female creators in the Spanish audiovisual industry, addressing the underrepresentation of women in leadership positions. Its central hypothesis posits that women face greater difficulties in generating and consolidating professional networks, and that these networks are crucial for their career paths and for shaping shared audiovisual narratives and aesthetics. The overall objective is to identify the factors and dynamics that strengthen these networks and act as a driving force and support for the careers of female creators in both film and television, along with specific objectives focused on analyzing creative synergies, collaborative dynamics, aesthetic influences, and the impact of institutional policies and initiatives. The project adopts a multidisciplinary qualitative-quantitative approach that allows for a comprehensive understanding of the relationships between industry, networks, and symbolic production, offering an innovative and transferable model for studying equal opportunities in the audiovisual sector.
 
 ---
