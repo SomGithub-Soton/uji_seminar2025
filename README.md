@@ -97,6 +97,7 @@ Shiny is used in the seminar to show how researchers can convert static analyses
   institution  = {Universitat Jaume I}
 }
 
+
 ---
 
 ## Acknowledgements
