@@ -1,7 +1,5 @@
-# Las creadoras en el audiovisual y sus redes  
-## Un estudio de los vínculos como elemento de transformación y consolidación en la industria  
-### Women Creators in Audiovisual Media and Their Networks  
-#### A Study of Connections as an Element of Transformation and Consolidation in the Industry
+# Las creadoras en el audiovisual y sus redes: Un estudio de los vínculos como elemento de transformación y consolidación en la industria  
+### Women Creators in Audiovisual Media and Their Networks: A Study of Connections as an Element of Transformation and Consolidation in the Industry
 **Código / Code:** CIAICO/2024/103
 
 ---
